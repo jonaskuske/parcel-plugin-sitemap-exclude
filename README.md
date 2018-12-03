@@ -1,4 +1,6 @@
-# Parcel Sitemap Plugin (with `exclude` option)
+# [Deprecated] Parcel Sitemap Plugin (with `exclude` option)
+
+> ⚠ This package is deprecated as its functionality has been merged into [parcel-plugin-sitemap@2.0.0](https://www.npmjs.com/package/parcel-plugin-sitemap)!
 
 Fork of [parcel-plugin-sitemap](https://github.com/parcel-bundler/parcel), a plugin for creating (very) basic sitemaps.  
 
